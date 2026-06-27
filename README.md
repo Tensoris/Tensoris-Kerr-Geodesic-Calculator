@@ -123,18 +123,6 @@ The engine is validated against:
 
 ---
 
-## Deliverables for Convergence Meeting
-
-When meeting with Galbiati, Ianni, and Peña-Garay:
-
-1. ✅ Modular Python package (professional codebase)
-2. ✅ Three geodesic simulations (circular, plunging, Penrose)
-3. ✅ Conservation plots proving numerical stability
-4. ✅ Validation report against EinsteinPy
-5. ✅ Clean, documented GitHub-ready repository
-
----
-
 ## References
 
 - **EinsteinPy**: [einsteinpy.org](https://einsteinpy.org)
